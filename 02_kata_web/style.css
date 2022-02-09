@@ -1,0 +1,26 @@
+h1{
+    color:rgb(160, 14, 152);
+    background-color: rgb(38, 255, 255);
+}
+p{
+    color:green;
+    background-color:rgb(255, 214, 255);
+}
+/* El # es para los ID */
+#primer{
+    color:blue;
+}
+#segundo{
+    color:rgb(221, 64, 90);
+}
+/*El . es para CLASS*/
+.tipo{
+    color:rgb(67, 9, 121);
+    font-size:30px;
+}
+#etiqueta{
+    padding:50px;
+    content:30px;
+    border:10px;
+    margin:15px;
+}

@@ -1,0 +1,20 @@
+div{
+    width: 100vw;
+    height:200px;
+}
+/* Media Querie para pantallas  movil*/
+@media only screen and (max-width: 230px){
+    div{
+        background-color: aqua;
+    }
+}
+@media only screen and (min-width: 250px){
+    div{
+        background-color: rgb(229, 255, 0);
+    }
+}
+@media screen and (min-widht: 240px){
+    p{
+        color: red;
+    }
+}

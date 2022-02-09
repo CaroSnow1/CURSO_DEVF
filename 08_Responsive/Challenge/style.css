@@ -1,0 +1,24 @@
+div{
+    display: flex;
+    border-style: 1px solid;
+}
+
+.uno{
+    border-color: blue;
+}
+
+.dos{
+    border-color: red,
+}
+
+.tres{ 
+    border-color:green;
+}
+
+@media only screen and (max-width: 230px){
+    .pantalla_Grande{
+       justify-content: center;
+       
+    }
+
+}

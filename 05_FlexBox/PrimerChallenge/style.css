@@ -1,0 +1,40 @@
+div{
+    display: flex;
+}
+.centrado_horizontal{
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+   
+}
+.centrado_vertical{
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center;
+}
+.primera_Caja{
+    border-style: solid;
+    border: 10px 10px 10px 10px;
+    border-color: #ff0000;
+    width: 550px;
+    height: 550px;
+    margin: 5px 5px 5px 5px;
+}
+.segunda_Caja{
+    border-style: solid;
+    border: 10px 10px 10px 10px;
+    border-color: rgb(5, 22, 255);
+    width: 150px;
+    height: 150px;
+    margin: 5px 5px 5px 5px;
+    
+}
+.tercera_Caja{
+    border-style: solid;
+    border: 10px 10px 10px 10px;
+    border-color: rgb(5, 247, 5);
+    width: 30px;
+    height: 30px;
+    margin: 5px 5px 5px 5px;
+   
+}
